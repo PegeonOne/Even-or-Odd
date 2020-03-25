@@ -1,0 +1,11 @@
+Z:\C#\Ever-Or-Odd\Ever-Or-Odd\bin\Debug\netcoreapp3.1\Ever-Or-Odd.exe
+Z:\C#\Ever-Or-Odd\Ever-Or-Odd\bin\Debug\netcoreapp3.1\Ever-Or-Odd.deps.json
+Z:\C#\Ever-Or-Odd\Ever-Or-Odd\bin\Debug\netcoreapp3.1\Ever-Or-Odd.runtimeconfig.json
+Z:\C#\Ever-Or-Odd\Ever-Or-Odd\bin\Debug\netcoreapp3.1\Ever-Or-Odd.runtimeconfig.dev.json
+Z:\C#\Ever-Or-Odd\Ever-Or-Odd\bin\Debug\netcoreapp3.1\Ever-Or-Odd.dll
+Z:\C#\Ever-Or-Odd\Ever-Or-Odd\bin\Debug\netcoreapp3.1\Ever-Or-Odd.pdb
+Z:\C#\Ever-Or-Odd\Ever-Or-Odd\obj\Debug\netcoreapp3.1\Ever-Or-Odd.AssemblyInfoInputs.cache
+Z:\C#\Ever-Or-Odd\Ever-Or-Odd\obj\Debug\netcoreapp3.1\Ever-Or-Odd.AssemblyInfo.cs
+Z:\C#\Ever-Or-Odd\Ever-Or-Odd\obj\Debug\netcoreapp3.1\Ever-Or-Odd.dll
+Z:\C#\Ever-Or-Odd\Ever-Or-Odd\obj\Debug\netcoreapp3.1\Ever-Or-Odd.pdb
+Z:\C#\Ever-Or-Odd\Ever-Or-Odd\obj\Debug\netcoreapp3.1\Ever-Or-Odd.csprojAssemblyReference.cache
